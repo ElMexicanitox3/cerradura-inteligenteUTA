@@ -15,4 +15,4 @@ while True:
     input_state=GPIO.input(23)
     if input_state==False:
         print('Boton presionado')
-        time.sleep(0.2)
+        time.sleep(0.2) 
