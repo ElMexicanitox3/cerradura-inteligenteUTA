@@ -1,0 +1,12 @@
+#comandos para linux que se ocuparan para realizar este Proyecto.
+
+#acceder a un directorio => cd
+#retroceder a un directorio => cd ..
+#leer directorios => ls
+#borrar archivo => rm (archivo)
+#borrar directorio => rm -rf (directorio)
+#borrar todo => rm -rf *  
+
+
+#multiprocesing
+#multitreding
